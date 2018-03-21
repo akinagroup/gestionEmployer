@@ -1,0 +1,4 @@
+services:
+#    snt_service.example:
+#        class: SNT\ServiceBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

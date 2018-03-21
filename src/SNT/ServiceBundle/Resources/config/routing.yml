@@ -1,0 +1,3 @@
+post:
+    resource: "SNTServiceBundle/Controller/UnitController.php"
+    type:     annotation
